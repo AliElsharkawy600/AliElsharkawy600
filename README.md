@@ -33,13 +33,13 @@
 
 ---
 
-<details open>
+<details open width="100%">
 <summary>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Technology Stack</b>
 </summary>
 <br>
 
-<table width="100%">
+<table>
   <tr>
     <td valign="top" width="50%">
       <h4>Programming Languages</h4>
